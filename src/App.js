@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="w-100" alt="logo" />
          </div>
         <p>
-          Edita <code>src/App.js</code> y salva el cambio para recargar.
+          Edita <code>src/App.js</code> .
         </p>
         <a
           className="App-link"
